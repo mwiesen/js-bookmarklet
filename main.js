@@ -1,5 +1,5 @@
-javascript:(
-	function(){
+javascript: (
+    function() {
         if (window.getSelection().anchorNode != null) {
             var elem = window.getSelection().anchorNode.parentElement;
 
